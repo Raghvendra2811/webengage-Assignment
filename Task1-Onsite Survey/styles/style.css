@@ -1,0 +1,86 @@
+* {
+  font-family: "Roboto", sans-serif;
+  margin: 0;
+  padding: 0;
+}
+
+#outer-container {
+  display: grid;
+  grid-template-columns: 50% 45%;
+  margin: auto;
+}
+
+#outer-container > div {
+  margin: auto;
+}
+
+#outer-container > div > img {
+  width: 100%;
+}
+
+#logo-input-outer-container {
+  width: 100%;
+}
+
+#basic-details > h1 {
+  font-size: 4rem;
+  font-weight: 600;
+  margin: auto;
+  width: fit-content;
+}
+
+#basic-details > h2 {
+  font-size: 2rem;
+  font-weight: 400;
+  margin: auto;
+  width: fit-content;
+}
+
+
+#basic-details > div {
+  width: 60%;
+  margin: auto;
+  margin-bottom: 15px;
+}
+
+
+#basic-details > div > img {
+  width: 100%;
+  margin: auto;
+}
+
+#basic-details {
+  margin-bottom: 30px;
+}
+
+
+#input-form {
+  display: flex;
+  flex-direction: column;
+}
+
+
+#input-form > input {
+  padding: 20px 10px;
+  margin: 15px;
+  border: 1px solid grey;
+  border-radius: 3px;
+  font-size: large;
+  font-weight: 400;
+}
+
+#input-form > input[type="submit"] {
+  background-color: black;
+  color: white;
+  font-size: x-large;
+  font-weight: 500;
+}
+
+
+@media only screen and (max-width: 840px) {
+  #outer-container {
+    display: grid;
+    grid-template-columns: 100%;
+    margin: auto;
+  }
+}

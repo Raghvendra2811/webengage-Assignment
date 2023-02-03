@@ -1,0 +1,54 @@
+1.What will be your approach to solving this issue? Explain your strategy and approach to
+this?
+
+
+Ans:-Given the conflicting priorities of Task 1 and Task 2, my approach would be to prioritize Task 2 over Task 1. Since Task 2 is for a priority customer whose campaign needs to go live in the next 2 days, it is imperative that I ask for an extension for this task. I would communicate the situation to the customer and request for an extension, explaining the family emergency and the fact that it is beyond my control. If necessary, I would offer to work extra hours or find alternative solutions to ensure the prompt completion of Task 2. In the meantime, I would prioritize my efforts towards completing Task 1 within the original due date or as soon as possible.
+
+
+2.How will you inform the 2 separate account managers of both customers about your
+approach? Write an internal message informing Manoj (Account manager for Task 1) &
+Ravi (Account Manager for Task 2) about your respective approach.
+
+
+Ans:-
+Subject: Update on Task 1 and Task 2 Due Dates
+
+Dear Manoj and Ravi,
+
+I hope this email finds you well. I am writing to update you on the status of Task 1 and Task 2 that are due tomorrow. Unfortunately, I have a family emergency that requires my immediate attention and will prevent me from meeting the original due dates for both tasks.
+
+As per our previous discussion, I can only ask for an extension for one task and I have decided to prioritize Task 2, which is for your customer Ravi. I understand the importance of this task and the tight timeline for the campaign go-live, and I will do my best to complete it as soon as possible.
+
+In this regard, I have requested an extension for Task 2 and I will keep you updated on its progress. I will also work extra hours, if needed, to ensure that the task is completed on time.
+
+In the meantime, I will continue to work on Task 1 and I will do my best to complete it within the original due date or as soon as possible.
+
+Please let me know if you have any concerns or questions. I apologize for any inconvenience caused and I thank you for your understanding.
+
+Best regards,
+Raghvendra Singh
+
+
+3.How will you communicate the delay of additional 3 days to the customer? (Write an
+email to the customer informing them about this).
+
+
+Ans:- Subject: Update on Task 2 Delivery Schedule
+
+Dear Ankit,
+
+I hope this email finds you well. I am writing to provide an update on the status of Task 2, which was originally due tomorrow.
+
+Unfortunately, I have a family emergency that requires my immediate attention and will prevent me from meeting the original due date. Despite my best efforts, I anticipate a delay of at least 3 more days in completing Task 2.
+
+Please be assured that I am taking this matter seriously and I am doing everything I can to minimize the impact of this delay on your campaign go-live schedule. I have requested an extension for this task and I will continue to work extra hours, if needed, to ensure that it is completed on time.
+
+I apologize for any inconvenience this may cause and I understand the importance of meeting your timeline. I would appreciate the opportunity to discuss this matter further and to find a solution that meets your needs.
+
+Please let me know if you have any concerns or questions. I am available at your convenience to discuss this further.
+
+Thank you for your understanding and support.
+
+Best regards,
+
+Raghvendra Singh
